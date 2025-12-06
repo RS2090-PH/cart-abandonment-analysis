@@ -90,10 +90,9 @@ These constraints required active communication, planning, and technical adaptat
 This project strengthened multiple competencies:
 
 - Enhanced communication and cross-team collaboration.
-- Deeper experience working with large, operational datasets from a real business system.
+- Expanded experience working with large, operational datasets from a real business system.
 - Improved proficiency with Python-based analytics, PySpark workflows, and Databricks.
 - Continued application of the CRISP-DM framework to structure analytical reasoning.
-- Additional exposure to production-grade data pipelines, timing rules, and business logic interpretation.
 
 These experiences contribute directly to professional readiness for applied analytics roles.
 
