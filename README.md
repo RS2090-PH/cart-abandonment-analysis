@@ -2,6 +2,8 @@
  
 This repository presents the analytical work performed as part of the Master of Science in Business Analytics (MSBA) Capstone Project in partnership with Swire Coca-Cola, USA. The project evaluates the financial and product-mix implications of cart abandonment on the MyCoke360 digital ordering platform. The analysis adheres to established analytical methodology and supports stakeholders with measurable, defensible insights using production-grade data.
 
+***NOTE: The notebooks for this individual repo are not entirely complete. After setting a baseline I ended up moving toward starting the group repos, which did include adding more of my own individual code there before merging in the code of my team. As such, the code here will not be entirely complete.***
+
 
 ### Methodology
 
