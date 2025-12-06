@@ -1,0 +1,82 @@
+# Initial Team Planning Notes
+
+## Upcoming Tasks
+
+- Robby: Set up Airtable.
+- All team members: Draft individual problem statements (due Friday).
+- Robby: Compile submitted problem statements.
+- Cyrus: Confirm with Swire whether cart abandonment impacts raw-materials ordering.
+
+
+## General Notes
+
+- Develop a Lucidchart diagram outlining the Git branching workflow.
+- Following EDA, align on the finalized data-cleaning stages before beginning modeling.
+
+
+## Task Designation
+
+### Cyrus
+
+- **Question:*- What behavioral events or sequences of events are the strongest predictors of cart abandonment?
+- **Question:*- What behaviors or conditions lead to a customer returning to complete a previously abandoned cart?
+
+### Ali
+
+- **Question:*- How does cart abandonment vary by device type, and how can it be reduced?
+- **Question:*- Which products appear most frequently in abandoned carts?
+
+### Robby
+
+- **Question:*- What is the financial impact of cart abandonment on total MyCoke360 revenue and product mix?
+- Responsible for code compilation.
+
+### Sterling
+
+- **Question:*- What happens after a cart is abandoned? Does the customer order through another method or churn?
+- Responsible for presentation development.
+
+
+## Code Structure
+
+```
+[SETUP]
+
+[CLEANING]
+
+[TOPIC / QUESTION]
+
+[CODE / FEATURE ENGINEERING]
+
+[RESULT]
+
+[INTERPRETATION]
+
+[TOPIC / QUESTION]
+
+[CODE / FEATURE ENGINEERING]
+
+[RESULT]
+
+[INTERPRETATION]
+
+[TOPIC / QUESTION]
+
+[CODE / FEATURE ENGINEERING]
+
+[RESULT]
+
+[INTERPRETATION]
+```
+
+
+## Workflow Overview
+
+### Exploratory Data Analysis (EDA)
+
+Focus on data profiling, proportions, data integrity, feature exploration, and formatting.
+
+### Modeling
+
+Prepare modeling datasets, build models, and interpret resulting insights.
+
